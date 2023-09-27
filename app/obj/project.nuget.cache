@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIBASu7i/t8uiQg+wFZbnkHjZcPLgCE22sVzd4JbpCARHF3F/G8zfnbMEQkY/eBaOqcre+iFNmSFdAj2Wo8ANw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\KEA\\C_Sharp_Undervisning\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
